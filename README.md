@@ -7,13 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://yassinebiznaoune.netlify.app](https://yassinebiznaoune.netlify.app)
-
 - 💬 Ask me about **NextJS , Front End Techs**
-
-- 📫 How to reach me **yassinebiznaoune@gmail.com**
-
-- 📄 Know about my experiences [https://yassinebiznaoune.netlify.app/](https://yassinebiznaoune.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
